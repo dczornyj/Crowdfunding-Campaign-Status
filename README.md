@@ -1,4 +1,10 @@
+Overview
 
+
+All campaigns with conditional formatting used to distinguish campaign outcome
+![Screenshot (154)](https://user-images.githubusercontent.com/101612220/191157517-98ea037b-07de-4a82-9928-ce51a9016304.png)
+
+Pivot Table + Stacked Bar Chart displaying Campaigns by Category
 
 
 
@@ -24,14 +30,6 @@ Instructions
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since they began in the late aughts. Everyone from indie creators to famous celebrities have utilized crowdfunding to launch new products and generate buzz, but not every project has found success.
 
 Getting funded on a crowdfunding website requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 1,000 generated sample projects in order to uncover any hidden trends.
-
-### Before You Begin
-
-1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive. **Do not add this homework to an existing space**.
-
-2. Store your Excel workbooks here in this new space, and create a sharable link for submission.
-
-## Instructions
 
 ![Crowdfunding Table](Images/FullTable.PNG)
 
