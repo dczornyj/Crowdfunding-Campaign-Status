@@ -35,8 +35,6 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 
 Getting funded on a crowdfunding website requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 1,000 generated sample projects in order to uncover any hidden trends.
 
-![Crowdfunding Table](Images/FullTable.PNG)
-
 Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze the data of 1,000 example projects in an attempt to uncover market trends. 
 
 * Dataset created by Trilogy Education Services, LLC.
