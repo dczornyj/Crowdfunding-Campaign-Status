@@ -8,7 +8,7 @@
 ![Screenshot (155)](https://user-images.githubusercontent.com/101612220/191158396-40277f44-c32a-4c0e-9326-8b8bb9baac50.png)
 
 ## Pivtol Table + Line Chart displaying Count of Campaign outcomes by Month
-![Screenshot (156)](https://user-images.githubusercontent.com/101612220/191158400-af090d4f-3657-40a7-ad3b-18ac4cdca788.png
+![Screenshot (156)](https://user-images.githubusercontent.com/101612220/191158400-af090d4f-3657-40a7-ad3b-18ac4cdca788.png)
 
 ## References
 
